@@ -1,6 +1,6 @@
-# 🛍️ ShopVista - Modern E-Commerce Platform
+# 🛍️ Modern Shop - Modern E-Commerce Platform
 
-A sleek, modern e-commerce web application built with **Next.js 15**, **TypeScript**, and **Tailwind CSS**. Features a beautiful UI with dark mode, real-time search, shopping cart management, and Indian Rupees (INR) pricing.
+A sleek, modern e-commerce web application built with **Next.js 15**, **TypeScript**, and **Tailwind CSS**. Features a beautiful UI with real-time search, shopping cart management
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)
