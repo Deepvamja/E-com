@@ -29,15 +29,11 @@ A sleek, modern e-commerce web application built with **Next.js 15**, **TypeScri
 - **Sort functionality** - By name, price (low to high), or rating
 -
 
-### 🖼️ **Product Showcase**
-- High-quality product images
-- Product descriptions and details
-- Professional product photography style
-- Thumbnail previews in cart
+
 
 ## 🚀 Tech Stack
 
-- **Framework:** Next.js 15 (App Router)
+- **Framework:** Next.js 15 (App Router), React Js
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS v4
 - **UI Components:** Shadcn/UI
