@@ -13,7 +13,6 @@ A sleek, modern e-commerce web application built with **Next.js 15**, **TypeScri
 - **Vibrant gradient design** with purple, pink, and cyan color schemes
 - **Glass morphism effects** and smooth animations
 - **Responsive layout** - Works seamlessly on desktop, tablet, and mobile
-- **Dark mode toggle** with smooth transitions
 - **Hover effects** on product cards with zoom animations
 
 ### 🛒 **Shopping Cart**
@@ -28,12 +27,7 @@ A sleek, modern e-commerce web application built with **Next.js 15**, **TypeScri
 - **Real-time search** - Search by product name or description
 - **Category filtering** - Electronics 📱, Books 📚, Clothing 👕
 - **Sort functionality** - By name, price (low to high), or rating
-- **Star ratings** for each product (4.2-4.8 ⭐)
-
-### 💰 **Indian Market Focus**
-- All prices in **Indian Rupees (₹)**
-- INR formatting with proper comma separation
-- Price range: ₹1,199 - ₹95,999
+-
 
 ### 🖼️ **Product Showcase**
 - High-quality product images
